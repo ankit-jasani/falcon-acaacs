@@ -27,6 +27,7 @@
       }
     },
     "/fr/": {
+      "commerce-assets-enabled": true,
       "commerce-core-endpoint": "https://edge-sandbox-graph.adobe.io/api/8b22a69e-1e20-4c03-a8dd-7c05b559673b/graphql",
       "commerce-endpoint": "https://edge-sandbox-graph.adobe.io/api/8b22a69e-1e20-4c03-a8dd-7c05b559673b/graphql",
       "headers": {
